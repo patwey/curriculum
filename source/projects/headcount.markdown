@@ -463,7 +463,7 @@ This method returns a hash with years as keys and an floating point three-signif
 *Example*:
 
 ```
-enrollment.participation_by_year
+enrollment.special_education_by_year
 # => {2009 => 0.075,
       2010 => 0.078,
       2011 => 0.072,
